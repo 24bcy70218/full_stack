@@ -1,0 +1,21 @@
+.card {
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+.image {
+  height: 100px;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.in {
+  color: green;
+}
+
+.out {
+  color: red;
+}
